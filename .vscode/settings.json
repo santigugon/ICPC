@@ -3,6 +3,9 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "vector": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "xiosbase": "cpp",
+    "limits": "cpp",
+    "utility": "cpp"
   }
 }
